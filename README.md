@@ -1,5 +1,7 @@
 # HealthGrid
 
+Uganda health's health sector.
+
 Fresh project foundation for a secure healthcare coordination platform.
 
 ## Stack
@@ -47,7 +49,7 @@ The Supabase dashboard values used to construct `DATABASE_URL` are the database 
 
 See [ARCHITECTURE.md](ARCHITECTURE.md) for the current system boundary and security notes.
 
-# React + TypeScript + Vite
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
